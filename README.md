@@ -2,7 +2,7 @@
 
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/4522927/212147880-1639d222-af07-4610-a88a-bbda61376677.png">
 
-This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when browsing resources to learn and practice Cypress (https://docs.cypress.io/examples/media/courses-media).
+This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when browsing resources to learn and practise Cypress (https://docs.cypress.io/examples/media/courses-media).
 
 - Instructor: Gleb Bahmutov, Ph.D. (https://glebbahmutov.com/blog/)
 - Course Format: Textual and video learning components. Six knowledge checks, Exam (requires score of 80% or higher).
