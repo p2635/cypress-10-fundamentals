@@ -4,7 +4,7 @@ This course was created by [Blazemeter University](https://www.blazemeter.com/un
 
 - Instructor: Gleb Bahmutov, Ph.D. (https://glebbahmutov.com/blog/)
 - Course Format: Textual and video learning components. Six knowledge checks, Exam (requires score of 80% or higher).
-- Product under test: Sudoku game created by Amith Raravi: https://github.com/raravi/sudoku (live page: https://sudoku-raravi.vercel.app)
+- Product under test: React Sudoku game created by Amith Raravi: https://github.com/raravi/sudoku (live page: https://sudoku-raravi.vercel.app)
 
 Course content:
 
