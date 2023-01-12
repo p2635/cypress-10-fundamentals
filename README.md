@@ -16,33 +16,33 @@ Course content:
 
 # Full course breakdown
 
-- Introduction
-- Setup
-- E2E testing
-- Timer
-- Hint
-- Reference
-- Play mode
-- Clock
-- Optimizing
-- Continuous integration
-- Deterministic tests
-- Component testing
-- Stub
-- Mount
-- Viewport
-- Screenshot
-- Overlay
-- CI and component testing
-- Top-level component
-- Context provider
-- Timer component testing
-- Refactoring
-- Test-driven development
-- Intercept configuration
-- Network call
-- Watch-and-reload plugin
-- Wrap-up
-- Exam
+- [ ] Introduction
+- [ ] Setup
+- [ ] E2E testing
+- [ ] Timer
+- [ ] Hint
+- [ ] Reference
+- [ ] Play mode
+- [ ] Clock
+- [ ] Optimizing
+- [ ] Continuous integration
+- [ ] Deterministic tests
+- [ ] Component testing
+- [ ] Stub
+- [ ] Mount
+- [ ] Viewport
+- [ ] Screenshot
+- [ ] Overlay
+- [ ] CI and component testing
+- [ ] Top-level component
+- [ ] Context provider
+- [ ] Timer component testing
+- [ ] Refactoring
+- [ ] Test-driven development
+- [ ] Intercept configuration
+- [ ] Network call
+- [ ] Watch-and-reload plugin
+- [ ] Wrap-up
+- [ ] Exam
 
 Total estimated duration (course videos): 2 hours 15 minutes
