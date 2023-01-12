@@ -18,8 +18,8 @@ Course content:
 
 # Full course breakdown
 
-- [ ] Introduction
-- [ ] Setup
+- [x] Introduction
+- [x] Setup
 - [ ] E2E testing
 - [ ] Timer
 - [ ] Hint
