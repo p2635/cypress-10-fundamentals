@@ -20,7 +20,7 @@ Course content:
 - Setup
 - E2E testing
 - Timer
-- Hint 3:53 min
+- Hint
 - Reference
 - Play mode
 - Clock
