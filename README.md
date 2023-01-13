@@ -21,10 +21,10 @@ Course content:
 # Full course breakdown
 
 - [x] Setup: install cypress for a project (--save-dev)
-- [x] E2E testing: check for h1 and h2 text with contains
-- [x] Timer: configure timeout for a command, js for loop used in a test
-- [x] Hint: .should(), .not, .each, .click
-- [x] Play mode: alias, length, select, get by multiple classes
+- [x] E2E testing intro: check for h1 and h2 text with contains
+- [x] Sudoku timer feature: configure timeout for a command, js for loop used in a test
+- [x] Sudoku hint feature: .should(), .not, .each, .click
+- [x] Sudoku play modes: alias, length, select, get by multiple classes
 - [x] Clock: clock(), tick()
 - [ ] Optimizing
 - [ ] Continuous integration
