@@ -22,7 +22,6 @@ Course content:
 - [x] E2E testing: check for h1 and h2 text with contains
 - [x] Timer: configure timeout for a command, js for loop used in a test
 - [x] Hint: .should(), .not, .each, .click
-- [ ] Reference
 - [ ] Play mode
 - [ ] Clock
 - [ ] Optimizing
