@@ -1,6 +1,6 @@
 # Cypress Version 10: Fundamentals
 
-<img width="625" alt="image" src="https://user-images.githubusercontent.com/4522927/212147880-1639d222-af07-4610-a88a-bbda61376677.png">
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/4522927/212366013-c5af051d-6d0f-4852-b26f-888d8e9865ba.png">
 
 This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when browsing resources to learn and practise Cypress (https://docs.cypress.io/examples/media/courses-media).
 
