@@ -6,6 +6,10 @@
       "dom.iterable",
       "esnext"
     ],
+    "types": [
+      // load Cypress global type
+      "cypress"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -21,6 +25,8 @@
     "allowSyntheticDefaultImports": true
   },
   "include": [
-    "src"
+    "src",
+    // process only spec files
+    "cypress/**/*.ts"
   ]
 }

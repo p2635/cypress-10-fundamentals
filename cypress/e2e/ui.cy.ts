@@ -4,11 +4,11 @@ describe('UI', () => {
     cy.visit('/')
   })
 
-  it('Sudoku page contains title', () => {
-    cy.get('h1').contains('Sudoku')
+  it('Show Sudoku title', () => {
+    cy.get('h1').contains('Sudoku').should('be.visible')
   })
 
-  it('Sudoku page contains New Game', () => {
-    cy.get('h2').contains('New Game') // This doesn't check that it's a clickable option
+  it('Show New Game option', () => {
+    cy.get('h2').contains('New Game').should('be.visible') // This doesn't check that it's a clickable option
   })
 })
