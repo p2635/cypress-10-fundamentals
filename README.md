@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/4522927/212367686-d3e0a6c1-0a50-4c54-8
 
 This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when [browsing resources to learn and practise Cypress](https://docs.cypress.io/examples/media/courses-media).
 
-- Instructor: Gleb Bahmutov, Ph.D.
+- Instructor: [Gleb Bahmutov, Ph.D.](https://github.com/bahmutov)
 - Course Format:
   - Textual and video learning components
   - Six knowledge checks
