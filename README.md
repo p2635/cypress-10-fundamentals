@@ -20,7 +20,7 @@ Course content:
 
 - [x] Introduction
 - [x] Setup
-- [ ] E2E testing
+- [x] E2E testing
 - [ ] Timer
 - [ ] Hint
 - [ ] Reference
