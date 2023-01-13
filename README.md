@@ -1,5 +1,7 @@
 # Cypress Version 10: Fundamentals
 
+[![CI](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml/badge.svg)](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml)
+
 A clip of me trying stuff out:
 
 https://user-images.githubusercontent.com/4522927/212367686-d3e0a6c1-0a50-4c54-8715-04bad43fbf3a.mov
