@@ -29,7 +29,7 @@ Course content:
 - [x] Sudoku hint feature: .should(), .not, .each, .click
 - [x] Sudoku play modes: alias, length, select, get by multiple classes
 - [x] Clock: clock(), tick()
-- [ ] Optimizing
+- [ ] Reduce admin time by optimizing the process of starting the sudoku app
 - [ ] Continuous integration
 - [ ] Deterministic tests
 - [ ] Component testing
