@@ -4,14 +4,14 @@ A clip of me trying stuff out:
 
 https://user-images.githubusercontent.com/4522927/212367686-d3e0a6c1-0a50-4c54-8715-04bad43fbf3a.mov
 
-This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when browsing resources to learn and practise Cypress (https://docs.cypress.io/examples/media/courses-media).
+This course was created by [Blazemeter University](https://www.blazemeter.com/university). I stumbled upon this course when [browsing resources to learn and practise Cypress](https://docs.cypress.io/examples/media/courses-media).
 
-- Instructor: Gleb Bahmutov, Ph.D. (https://glebbahmutov.com/blog/)
+- Instructor: Gleb Bahmutov, Ph.D.
 - Course Format:
   - Textual and video learning components
   - Six knowledge checks
   - Exam (requires score of 80% or higher).
-- Product under test: React Sudoku game created by Amith Raravi: https://github.com/raravi/sudoku (live page: https://sudoku-raravi.vercel.app)
+- Product under test: React Sudoku game created by Amith Raravi ([repo](https://github.com/raravi/sudoku) and [live game demo](https://sudoku-raravi.vercel.app))
 
 Course content:
 
