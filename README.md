@@ -30,7 +30,7 @@ Course content:
 - [x] Sudoku play modes: alias, length, select, get by multiple classes
 - [x] Clock: clock(), tick()
 - [x] Optimizing sudoku app start using [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
-- [ ] Continuous integration
+- [ ] Continuous integration with GitHub Actions
 - [ ] Deterministic tests
 - [ ] Component testing
 - [ ] Stub
