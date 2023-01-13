@@ -1,6 +1,6 @@
 # Cypress Version 10: Fundamentals
 
-[![CI](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml/badge.svg)](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml)
+[![CI](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml/badge.svg?event=push)](https://github.com/p2635/cypress-10-fundamentals/actions/workflows/ci.yml)
 
 A clip of me trying stuff out:
 
