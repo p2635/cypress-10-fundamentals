@@ -18,10 +18,9 @@ Course content:
 
 # Full course breakdown
 
-- [x] Introduction
-- [x] Setup
-- [x] E2E testing
-- [ ] Timer
+- [x] Setup: install cypress for a project (--save-dev)
+- [x] E2E testing: check for h1 and h2 text
+- [x] Timer: configure timeout for a command, js for loop used in a test
 - [ ] Hint
 - [ ] Reference
 - [ ] Play mode
