@@ -33,7 +33,7 @@ Course content:
 - [x] Clock: clock(), tick()
 - [x] Optimizing sudoku app start using [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
 - [x] Continuous integration with GitHub Actions
-- [ ] Deterministic tests
+- [x] Deterministic tests with fixtures and modifying app code
 - [ ] Component testing
 - [ ] Stub
 - [ ] Mount
