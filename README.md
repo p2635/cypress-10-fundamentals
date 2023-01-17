@@ -32,10 +32,10 @@ Course content:
 - [x] Sudoku play modes: alias, length, select, get by multiple classes
 - [x] Clock: clock(), tick()
 - [x] Optimizing sudoku app start using [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
-- [x] Continuous integration with GitHub Actions
-- [x] Deterministic tests with fixtures and modifying app code
-- [x] Component testing - imports, cy.mount and change viewport height/width
-- [ ] Stub
+- [x] Continuous integration: GitHub Actions
+- [x] Deterministic tests:  fixtures and modifying app code
+- [x] Component testing: imports, cy.mount and change viewport height/width
+- [x] Stub: cy.stub(), 'have.been.calledOnce', alias with HTML
 - [ ] Mount
 - [ ] Viewport
 - [ ] Screenshot
