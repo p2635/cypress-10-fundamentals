@@ -34,7 +34,7 @@ Course content:
 - [x] Optimizing sudoku app start using [start-server-and-test](https://github.com/bahmutov/start-server-and-test)
 - [x] Continuous integration with GitHub Actions
 - [x] Deterministic tests with fixtures and modifying app code
-- [ ] Component testing - stuck on cy.mount(), moving ahead for now
+- [x] Component testing - imports, cy.mount and change viewport height/width
 - [ ] Stub
 - [ ] Mount
 - [ ] Viewport
