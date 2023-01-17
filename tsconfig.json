@@ -26,7 +26,6 @@
   },
   "include": [
     "src",
-    // process only spec files
-    "cypress/**/*.ts"
+    "cypress"
   ]
 }
