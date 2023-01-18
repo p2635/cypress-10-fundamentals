@@ -14,5 +14,7 @@ export default defineConfig({
       framework: "create-react-app",
       bundler: "webpack",
     },
+    viewportHeight: 1000,
+    viewportWidth: 1000
   },
 });
