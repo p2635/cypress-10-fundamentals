@@ -36,7 +36,7 @@ Course content:
 - [x] Deterministic tests:  fixtures and modifying app code
 - [x] Component testing: imports, cy.mount and change viewport height/width
 - [x] Stub: cy.stub(), 'have.been.calledOnce', alias with HTML
-- [ ] Mount
+- [x] Mount: cy.mount in the context of a React object
 - [ ] Viewport
 - [ ] Screenshot
 - [ ] Overlay
