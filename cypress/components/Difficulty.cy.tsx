@@ -10,7 +10,7 @@ describe('Difficulty', () => {
       <SudokuContext.Provider value={{ difficulty: 'easy' }}>
         <div className='innercontainer'>
           <section className='status'>
-            <Difficulty onChange={cy.stub().as('change')} />
+            <Difficulty onChange={cy.stub().as('changeDifficultyEvent')} />
           </section>
         </div>
       </SudokuContext.Provider>
@@ -19,19 +19,28 @@ describe('Difficulty', () => {
 
   it('Difficulty is Easy by default', () => {
     cy.get('select').should('have.value', 'Easy')
-    cy.get('@change').should('not.have.been.called')
+    cy.get('@changeDifficultyEvent').should('not.have.been.called')
   })
 
   it('Selecting Medium from Easy', () => {
     cy.get('select').should('have.value', 'Easy').select('Medium')
     cy.get('select').should('have.value', 'Medium')
-    cy.get('@change').should('have.been.calledOnce')
+    cy.get('@changeDifficultyEvent').should('have.been.calledOnce')
   })
 
-  it('Printing the arguments of an element', () => {
+  it('console.log event args', () => {
     cy.get('select').should('have.value', 'Easy').select('Medium')
     cy.get('select').should('have.value', 'Medium')
-    cy.get('@change').should('have.been.calledOnce').its('firstCall.args').then(console.log)
+    cy.get('@changeDifficultyEvent').should('have.been.calledOnce')
+      .its('firstCall.args.0.target.value')
+      .then(cy.log)
   })
 
+  it('Selected value is `Medium`', () => {
+    cy.get('select').should('have.value', 'Easy').select('Medium')
+    cy.get('select').should('have.value', 'Medium')
+    cy.get('@changeDifficultyEvent').should('have.been.calledOnce')
+      .its('firstCall.args.0.target.value')
+      .should('equal', 'Medium')
+  })
 })
