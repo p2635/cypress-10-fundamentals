@@ -15,6 +15,7 @@ export default defineConfig({
       bundler: "webpack",
     },
     viewportHeight: 1000,
-    viewportWidth: 1000
+    viewportWidth: 1000,
+    trashAssetsBeforeRuns: true,
   },
 });

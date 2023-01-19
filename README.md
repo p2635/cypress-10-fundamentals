@@ -38,7 +38,7 @@ Course content:
 - [x] Stub: cy.stub(), 'have.been.calledOnce', alias with HTML
 - [x] Mount: cy.mount in the context of a React object
 - [x] Viewport: cypress.config, log event args, assert value should equal
-- [ ] Screenshot
+- [x] Screenshot: cy.screenshot, checking to see if input is 'checked'
 - [ ] Overlay
 - [ ] CI and component testing
 - [ ] Top-level component
