@@ -37,7 +37,7 @@ Course content:
 - [x] Component testing: imports, cy.mount and change viewport height/width
 - [x] Stub: cy.stub(), 'have.been.calledOnce', alias with HTML
 - [x] Mount: cy.mount in the context of a React object
-- [ ] Viewport: cypress.config, print event args
+- [x] Viewport: cypress.config, log event args, assert value should equal
 - [ ] Screenshot
 - [ ] Overlay
 - [ ] CI and component testing
