@@ -1,4 +1,3 @@
-import { Numbers } from '../../src/components/Numbers'
 import { SudokuContext } from '../../src/context/SudokuContext'
 import '../../src/App.css'
 import { Difficulty } from '../../src/components/Difficulty'

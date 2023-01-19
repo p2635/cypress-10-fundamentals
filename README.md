@@ -41,7 +41,7 @@ Course content:
 - [x] Screenshot: cy.screenshot, checking to see if input is 'checked'
 - [x] Overlay: check the 'You solved it!' overlay
 - [x] CI and component testing: adding component tests to GitHub actions
-- [ ] Top-level component
+- [x] Top-level component: testing the Game component
 - [ ] Context provider
 - [ ] Timer component testing
 - [ ] Refactoring
