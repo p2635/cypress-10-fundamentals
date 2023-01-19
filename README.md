@@ -39,7 +39,7 @@ Course content:
 - [x] Mount: cy.mount in the context of a React object
 - [x] Viewport: cypress.config, log event args, assert value should equal
 - [x] Screenshot: cy.screenshot, checking to see if input is 'checked'
-- [ ] Overlay
+- [x] Overlay: check the 'You solved it!' overlay
 - [ ] CI and component testing
 - [ ] Top-level component
 - [ ] Context provider
