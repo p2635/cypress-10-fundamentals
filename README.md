@@ -40,7 +40,7 @@ Course content:
 - [x] Viewport: cypress.config, log event args, assert value should equal
 - [x] Screenshot: cy.screenshot, checking to see if input is 'checked'
 - [x] Overlay: check the 'You solved it!' overlay
-- [ ] CI and component testing
+- [ ] CI and component testing: adding component tests to GitHub actions
 - [ ] Top-level component
 - [ ] Context provider
 - [ ] Timer component testing
