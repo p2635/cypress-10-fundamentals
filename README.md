@@ -42,7 +42,7 @@ Course content:
 - [x] Overlay: check the 'You solved it!' overlay
 - [x] CI and component testing: adding component tests to GitHub actions
 - [x] Top-level component: testing the Game component
-- [ ] Context provider: controlling data and using stubs (STUCK HERE, DNF for now due to insufficient knowledge on React and js/ts/jsx/tsx)
+- [ ] Context provider: controlling data and using stubs (STUCK HERE, DNF for now due to insufficient knowledge on React and js/ts/jsx/tsx). Moving on to get a [solid grounding in js in another project](https://github.com/p2635/modern-js-tutorial)
 - [ ] Timer component testing
 - [ ] Refactoring
 - [ ] Test-driven development
