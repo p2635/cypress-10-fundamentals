@@ -11,7 +11,10 @@ describe('Game', () => {
         window.solved = solved
 
         cy.mount(
-            <SudokuProvider>
+            <SudokuProvider value={{
+                won: false,
+                setWon: cy.stub().as('setWon')
+            }}>
                 <Game />
             </SudokuProvider>
         )
