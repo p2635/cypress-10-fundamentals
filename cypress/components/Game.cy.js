@@ -1,6 +1,7 @@
+import '../../src/App.css'
 import { Game } from '../../src/Game'
 import { SudokuProvider } from '../../src/context/SudokuContext'
-import '../../src/App.css'
+import { WinContext } from '../../src/context/WinContext'
 import { start, solved } from '../fixtures/deterministic_test.json'
 
 describe('Game', () => {
@@ -11,11 +12,13 @@ describe('Game', () => {
         window.solved = solved
 
         cy.mount(
-            <SudokuProvider value={{
-                won: false,
-                setWon: cy.stub().as('setWon')
-            }}>
-                <Game />
+            <SudokuProvider>
+                <WinContext.Provider value={{
+                    won: false,
+                    setWon: cy.stub().as('setWon')
+                }}>
+                    <Game />
+                </WinContext.Provider>
             </SudokuProvider>
         )
     })
@@ -25,6 +28,7 @@ describe('Game', () => {
     })
 
     it("Solve by filling in first four empty cells", () => {
+
         cy.get('.game__cell:contains(0)')
             .should('have.length', 4)
 
@@ -37,7 +41,8 @@ describe('Game', () => {
 
         // Assert
         cy.contains('.overlay__text', 'You solved it').should('be.visible')
-    })
 
+        cy.get('@setWon').should('have.been.calledWith', true)
+    })
 
 })
