@@ -42,7 +42,7 @@ Course content:
 - [x] Overlay: check the 'You solved it!' overlay
 - [x] CI and component testing: adding component tests to GitHub actions
 - [x] Top-level component: testing the Game component
-- [ ] Context provider
+- [ ] Context provider: controlling data and using stubs (STUCK HERE)
 - [ ] Timer component testing
 - [ ] Refactoring
 - [ ] Test-driven development
